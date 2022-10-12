@@ -1,2 +1,2 @@
 # simple-c-programs
-basic and simple programs in c
+discriminant, character frequency in string, circle circumference and area, decimal to binary converter, cartesian to polar coordinates, tree
